@@ -1,0 +1,11 @@
+Bedding, 16.99
+Starter Cage, 199.99
+40-Gallon Terrarium, 99.99
+Baby Gecko, 49.99
+Juvenile Gecko, 69.99
+Adult Gecko, 99.99
+Baby Beardie, 75.00
+Adult Beardie, 150.00
+Heat Lamp, 39.99
+PWM Thermostat, 149.99
+Checkout, 0.00
