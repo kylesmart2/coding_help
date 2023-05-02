@@ -5,7 +5,8 @@
 
 int main()
 {
-    
+    int fuck;
+    string suck it;   
     return 0;
 }
 
